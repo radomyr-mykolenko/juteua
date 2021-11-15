@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="308147c0-91e5-4d15-a8fb-a4fceef0f5c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="308147c0-91e5-4d15-a8fb-a4fceef0f5c6" name="Default Changelist" comment="bootstrap added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +54,22 @@
       <option name="presentableId" value="Default" />
       <updated>1635856941565</updated>
       <workItem from="1635856943594" duration="1050000" />
-      <workItem from="1636980957331" duration="1666000" />
+      <workItem from="1636980957331" duration="2080000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bootstrap added" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap added" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="394" y="11" key="CommitChangelistDialog2" timestamp="1636983055433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="394" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1636983055433" />
     <state x="553" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1636980971808">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
