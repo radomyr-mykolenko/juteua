@@ -1,4 +1,7 @@
 ﻿body{
     background-image:url(../images/backimage.jpg);
 }
-
+/* Modify the background color */
+.navbar-custom {
+    background-color: lightgreen;
+}
