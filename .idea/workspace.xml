@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308147c0-91e5-4d15-a8fb-a4fceef0f5c6" name="Default Changelist" comment="bootstrap added">
-      <change afterPath="$PROJECT_DIR$/art/jaki_roslyny_mozhyt_zaminyty_dzhut_ukr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Hibiscus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Hibiscus_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Hibiscus_sabdarifa_L.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art/jak_legko_zrobyty_kvitky_z_dzhutu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles.html" afterDir="false" />
     </list>
@@ -24,34 +21,41 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="20MaWRTsLpZRrhQu5Euq3EacQ4h" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/radomyr/Documents/work/sites/juteua"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/juteua.iml/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/juteua/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -71,25 +75,28 @@
       <workItem from="1638301608291" duration="3557000" />
       <workItem from="1638880853624" duration="3194000" />
       <workItem from="1639425759588" duration="2081000" />
+      <workItem from="1666007727261" duration="766000" />
+      <workItem from="1666008573748" duration="2181000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="bootstrap added" />
     <option name="LAST_COMMIT_MESSAGE" value="bootstrap added" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="394" y="11" key="CommitChangelistDialog2" timestamp="1636983055433">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="394" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1636983055433" />
-    <state x="553" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1639426085037">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="553" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1639426085037" />
   </component>
 </project>
