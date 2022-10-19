@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308147c0-91e5-4d15-a8fb-a4fceef0f5c6" name="Default Changelist" comment="bootstrap added">
-      <change afterPath="$PROJECT_DIR$/art/jak_legko_zrobyty_kvitky_z_dzhutu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/art/siamski_dzhut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Siamski dzhut_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Siamski dzhut_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/art_dzhutovi_kvitky_samples.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/art_dzhutovi_kvitky_scheme.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/siamski_dzhut_fotter_image.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art/jak_legko_zrobyty_kvitky_z_dzhutu.html" beforeDir="false" afterPath="$PROJECT_DIR$/art/jak_legko_zrobyty_kvitky_z_dzhutu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/articles.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,15 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/radomyr/Documents/work/sites/juteua"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/radomyr/Documents/work/sites/juteua&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/juteua.iml/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -77,6 +84,7 @@
       <workItem from="1639425759588" duration="2081000" />
       <workItem from="1666007727261" duration="766000" />
       <workItem from="1666008573748" duration="2181000" />
+      <workItem from="1666171641070" duration="3830000" />
     </task>
     <servers />
   </component>
