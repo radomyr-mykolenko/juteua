@@ -2,27 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308147c0-91e5-4d15-a8fb-a4fceef0f5c6" name="Default Changelist" comment="bootstrap added">
-      <change afterPath="$PROJECT_DIR$/images/cards/card_Siamski dzhut_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cards/card_art_dzhutovi_kvitky_samples.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cards/card_art_jaki_roslyny_mozhut_zaminyty_dzhut.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutova_torbynka_knit_my_bag.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutovyy_kylymok.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cards/card_jute-article-botanichni_naukovi_vidomosti_pro_dzhut.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cards/card_litery_z_dzhutu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dzhutova_torbynka_knit_my_bag.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dzhutovyy_kylymok.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/litery_z_dzhutu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pryklady/dzhutova_torbynka_z_bambukom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pryklady/dzhutovyy_kylymok_knit_my_bag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pryklady/litery_z_dzhutu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pryklady_robit_z_dzhutu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zvity.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zvity/zvit_z_birzhi_dzhutu_01_2021.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutova_torbynka_chorna_ruchka_knit_my_bag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutovyy_kylymok_pryamokutnij.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards/card_korobka_z_dzhutu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dzhutova_torbynka_chorna_ruchka_knit_my_bag.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dzhutovyy_kylymok_pryamokutnij.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/korobka_z_dzhutu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pryklady/krugla_dzhutova_sumka_z_chornimi_ruchkami.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pryklady/krugla_korobka_z_dzhutu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pryklady/pramokutny_dzhutovy_kylymok_pidstavka.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/botanichni_vidomosti_pro_dzhut_ukr.html" beforeDir="false" afterPath="$PROJECT_DIR$/art/botanichni_vidomosti_pro_dzhut_ukr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/articles.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pryklady_robit_z_dzhutu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pryklady_robit_z_dzhutu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +87,8 @@
       <workItem from="1666008573748" duration="2181000" />
       <workItem from="1666171641070" duration="3830000" />
       <workItem from="1666263946055" duration="7904000" />
+      <workItem from="1666274450058" duration="130000" />
+      <workItem from="1666348641961" duration="1788000" />
     </task>
     <servers />
   </component>
