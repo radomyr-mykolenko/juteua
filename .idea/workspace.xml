@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308147c0-91e5-4d15-a8fb-a4fceef0f5c6" name="Default Changelist" comment="bootstrap added">
-      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutova_torbynka_chorna_ruchka_knit_my_bag.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutovyy_kylymok_pryamokutnij.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cards/card_korobka_z_dzhutu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dzhutova_torbynka_chorna_ruchka_knit_my_bag.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dzhutovyy_kylymok_pryamokutnij.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/korobka_z_dzhutu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pryklady/krugla_dzhutova_sumka_z_chornimi_ruchkami.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pryklady/krugla_korobka_z_dzhutu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pryklady/pramokutny_dzhutovy_kylymok_pidstavka.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutova_sumka_tatiana_kar_kar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutova_sumka_yulia_golyanskaya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cards/card_dzhutove_asorti_vusein_crafts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dzhutova_sumka_tatiana_kar_kar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dzhutova_sumka_yulia_golyanskaya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dzhutova_sumka_yulia_golyanskaya_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dzhutove_asorti_vusein_crafts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pryklady/dzhutova_sumka_tatiana_kar_kar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pryklady/dzhutova_sumka_yulia_golyanskaya.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pryklady/dzhutove_asorti_vusein_crafts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pryklady_robit_z_dzhutu.html" beforeDir="false" afterPath="$PROJECT_DIR$/pryklady_robit_z_dzhutu.html" afterDir="false" />
     </list>
@@ -89,6 +90,7 @@
       <workItem from="1666263946055" duration="7904000" />
       <workItem from="1666274450058" duration="130000" />
       <workItem from="1666348641961" duration="1788000" />
+      <workItem from="1666612104646" duration="3379000" />
     </task>
     <servers />
   </component>
